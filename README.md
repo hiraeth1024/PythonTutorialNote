@@ -2,7 +2,7 @@
 
 ## 第一阶段
 ### Python基础
-
+#### [Python基础语法](docs/Python/basic.md)
 
 
 ## 第二阶段
